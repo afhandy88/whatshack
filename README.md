@@ -29,7 +29,8 @@ Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 Run script:
-# git clone https://github.com/thelinuxchoice/whatshack
+# git clone https://github.com/afhandy
+/whatshack
 # cd whatshack/
 # bash whatshack.sh
 
